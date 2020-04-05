@@ -45,3 +45,6 @@ For all cases:<br>
 5 | 9 | K = 0
 6 | 11 | K = 1
 7 | 22 | no additional constraint
+
+Original version from [HKOI Online Judge](https://judge.hkoi.org/task/J174)<br>
+Source: Hong Kong Olympiad in Informatics Organizing Committee. This problem is under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) licence.
