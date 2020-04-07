@@ -1,6 +1,6 @@
 # j174 Crosses - 2017 HKOI Final Event Junior Group
 ## Problem Statement
-Consider a rectangular Cartesian grid with N-by-M coordinates (0,0) to (N,M). We are given K points (x<sub>i</sub>,y<sub>i</sub>) on this grid and need to compute how many *crosses* would contain with all K points.<br>
+Consider a rectangular Cartesian grid with N-by-M coordinates (0,0) to (N,M). We are given K points (x<sub>i</sub>, y<sub>i</sub>) on this grid and need to compute how many *crosses* would contain with all K points.<br>
 A *cross* refers to the 2 diagonals of any given square on the cartesian grid.<br>
 ![cross1!](Cross.png "Cross 1")<tab> ![cross2!](Cross2.png "Cross 2")
 
